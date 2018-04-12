@@ -1,0 +1,14 @@
+{
+  "name": "sedge",
+  "version": "1.0.0",
+  "description": "Moderation Bot & more. Created by Dani. (http://github.com/DaniHTML/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dani",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
